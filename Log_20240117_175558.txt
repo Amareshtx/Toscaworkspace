@@ -1,0 +1,52 @@
+[3] 17:55:58: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\New Framework\New Framework.tws'
+[3] 17:55:58: Log level: 4
+[3] 17:55:58: Release: 30.1.25.0
+[3] 17:55:59: Resolved assembly 'combit.ListLabel21, Version=21.5.6045.29216, Culture=neutral, PublicKeyToken=a7a30592cb4a94be' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\ListAndLabel\MostRecent\combit.ListLabel21.dll'
+[3] 17:56:03: Using the following service discovery: http://192.168.29.129:81/DistributionServerService/CommunicationService.svc
+[3] 17:56:03:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 15.0.0.876 (876)
+[3] 17:56:03:  + DistributedExecutionAddIn: DistributedExecutionAddIn 15.0.0.876 (876)
+[3] 17:56:03:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 15.0.0.876 (876)
+[3] 17:56:03:  - ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 15.0.0.876 (876)
+[3] 17:56:03:  - ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 15.0.0.876 (876)
+[3] 17:56:03:  + IntegrationManagementAddIn: IntegrationManagementAddIn 15.0.0.876 (876)
+    - : QTestIntegration 15.0.0.170 (170)
+    + : SAPSolutionManagerIntegration 15.0.0.170 (170)
+[3] 17:56:03: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 17:56:03: Searcher found 0 results in 98.7611 ms
+[3] 17:56:03:  + OptIntAddIn: OptIntAddIn 15.0.0.876 (876)
+[3] 17:56:03:  + QTestIntegrationAddIn: QTestIntegrationAddIn 15.0.0.876 (876)
+[3] 17:56:03:  + RemoteControl: RemoteControlAddIn 15.0.0.876 (876)
+[3] 17:56:03:  + Reporting: ReportingAddIn 15.0.0.876 (876)
+[3] 17:56:03:  + ReportingUI: ReportingUIAddIn 15.0.0.876 (876)
+[3] 17:56:03:  - RequirementsManagementAddIn: RequirementsManagement 15.0.0.876 (876)
+[3] 17:56:03:  - RequirementsManagementUIAddIn: RequirementsManagementUI 15.0.0.876 (876)
+[3] 17:56:03:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 15.0.0.876 (876)
+[3] 17:56:03:  - TestCaseDesign: TestCaseDesign 15.0.0.876 (876)
+[3] 17:56:03:  - ControlFlowDiagram: TestCaseVisualizationAddIn 15.0.0.876 (876)
+[3] 17:56:03:  + XDefinitions: XDefinitions 15.0.0.876 (876)
+[3] 17:56:03:  + XDefinitionsUI: XDefinitionsUI 15.0.0.876 (876)
+[3] 17:56:03: Search started on 'New Framework' for query '=>SUBPARTS:TCFolder[(PossibleContent=?"ExecutionList") AND (ContinuousIntegrationBuildRootFolder=i="true") AND (IsViewingAllowed=i="true")]'
+[3] 17:56:04: Searcher found 1 results in 391.4049 ms
+[3] 17:56:04: Search started on 'New Framework' for query '=>SUBPARTS:ExecutionList[(ContinuousIntegration=i="true") AND (IsViewingAllowed=i="true")]'
+[3] 17:56:04: Searcher found 1 results in 8.5207 ms
+[3] 17:56:04: API: Executing Task Tricentis.TCCore.BusinessObjects.Tasks.CreateTCFolderTask
+[3] 17:56:04: API: Executing Task Tricentis.TCCore.BusinessObjects.Tasks.CreateExecutionMandateTask
+[3] 17:56:04: API: Executing Task Tricentis.TCCore.BusinessObjects.Tasks.ClearActuallExecutionLogTask
+[3] 17:56:04: API: Executing Task Tricentis.TCCore.BusinessObjects.Tasks.ClearAutoMergeListTask
+[3] 17:56:04: API: Executing DropTask Tricentis.TCCore.BusinessObjects.Tasks.AssignMandateDropTask
+[3] 17:56:04: API: Executing Task Tricentis.TCCore.BusinessObjects.Tasks.RunExecutionListTask
+[3] 17:56:41: AgentResults count: 1
+[3] 17:56:50: executionResponses count: 1
+[3] 17:56:51: Task 'Run' finished
+[3] 17:56:51: Saving changes
+[3] 17:56:51:  Save started!
+[3] 17:56:51: QTestIntegrationAddIn beginning to Export to QTest
+[3] 17:56:51: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 17:56:51: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 17:56:51: LinkTcToQTestService grouping testcases by same endpoint
+[3] 17:56:51: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 17:56:51: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 17:56:51:  Save finished!
+[3] 17:56:51: Closing Workspace
+[3] 17:56:51: Closing Workspace!
+[3] 17:56:51: Log closed!

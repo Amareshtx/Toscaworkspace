@@ -1,0 +1,34 @@
+[3] 15:55:28: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\New Framework\New Framework.tws'
+[3] 15:55:28: Log level: 4
+[3] 15:55:28: Release: 30.1.25.0
+[3] 15:55:29: Resolved assembly 'combit.ListLabel21, Version=21.5.6045.29216, Culture=neutral, PublicKeyToken=a7a30592cb4a94be' from 'C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\ToscaCommander\Reporting\ListAndLabel\MostRecent\combit.ListLabel21.dll'
+[3] 15:55:32: Using the following service discovery: http://192.168.29.129:81/DistributionServerService/CommunicationService.svc
+[3] 15:55:32:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 15.0.0.876 (876)
+[3] 15:55:32:  + DistributedExecutionAddIn: DistributedExecutionAddIn 15.0.0.876 (876)
+[3] 15:55:32:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 15.0.0.876 (876)
+[3] 15:55:32:  - ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 15.0.0.876 (876)
+[3] 15:55:32:  - ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 15.0.0.876 (876)
+[3] 15:55:32:  + IntegrationManagementAddIn: IntegrationManagementAddIn 15.0.0.876 (876)
+    - : QTestIntegration 15.0.0.170 (170)
+    + : SAPSolutionManagerIntegration 15.0.0.170 (170)
+[3] 15:55:32: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 15:55:32: Searcher found 0 results in 112.1682 ms
+[3] 15:55:32:  + OptIntAddIn: OptIntAddIn 15.0.0.876 (876)
+[3] 15:55:32:  + QTestIntegrationAddIn: QTestIntegrationAddIn 15.0.0.876 (876)
+[3] 15:55:32:  + RemoteControl: RemoteControlAddIn 15.0.0.876 (876)
+[3] 15:55:32:  + Reporting: ReportingAddIn 15.0.0.876 (876)
+[3] 15:55:32:  + ReportingUI: ReportingUIAddIn 15.0.0.876 (876)
+[3] 15:55:32:  - RequirementsManagementAddIn: RequirementsManagement 15.0.0.876 (876)
+[3] 15:55:32:  - RequirementsManagementUIAddIn: RequirementsManagementUI 15.0.0.876 (876)
+[3] 15:55:32:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 15.0.0.876 (876)
+[3] 15:55:32:  - TestCaseDesign: TestCaseDesign 15.0.0.876 (876)
+[3] 15:55:32:  - ControlFlowDiagram: TestCaseVisualizationAddIn 15.0.0.876 (876)
+[3] 15:55:32:  + XDefinitions: XDefinitions 15.0.0.876 (876)
+[3] 15:55:32:  + XDefinitionsUI: XDefinitionsUI 15.0.0.876 (876)
+[3] 15:55:32: Search started on 'New Framework' for query '=>SUBPARTS:TCFolder[(PossibleContent=?"ExecutionList") AND (ContinuousIntegrationBuildRootFolder=i="true") AND (IsViewingAllowed=i="true")]'
+[3] 15:55:32: Searcher found 1 results in 337.7617 ms
+[3] 15:55:32: Search started on 'New Framework' for query '=>SUBPARTS:ExecutionList[(ContinuousIntegration=i="true") AND (IsViewingAllowed=i="true")]'
+[3] 15:55:32: Searcher found 0 results in 5.2642 ms
+[3] 15:55:32: Closing Workspace
+[3] 15:55:33: Closing Workspace!
+[3] 15:55:33: Log closed!

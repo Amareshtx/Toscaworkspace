@@ -1,0 +1,84 @@
+[3] 15:34:36: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\New Framework\New Framework.tws'
+[3] 15:34:36: Log level: 4
+[3] 15:34:36: Release: 16.0.6.3131
+[3] 15:34:37: PimpUp started
+[3] 15:34:37: Adding MetaInfo in SQLiteAdaptor
+ + Assoc: [188:199] UIParent
+ + Assoc: [192:200] XModuleAttribute
+
+[3] 15:34:37: Execution Approval is disabled.
+[3] 15:34:37: Using the following service discovery: http://192.168.29.129:81/DistributionServerService/CommunicationService.svc
+[3] 15:34:37: ShouldSetAuthorizationHeader = False.
+[3] 15:34:37:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 16.0.6.3131 (3131)
+[3] 15:34:37:  + DistributedExecutionAddIn: DistributedExecutionAddIn 16.0.6.3131 (3131)
+[3] 15:34:37:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 16.0.6.3131 (3131)
+[3] 15:34:37:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 16.0.6.3131 (3131)
+[3] 15:34:37:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 16.0.6.3131 (3131)
+[3] 15:34:37:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 16.0.6.3131 (3131)
+[3] 15:34:37:  + IntegrationManagementAddIn: IntegrationManagementAddIn 16.0.6.3131 (3131)
+    + : SAPSolutionManagerIntegration 16.0.6.3131 (3131)
+[3] 15:34:37: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 15:34:37: Searcher found 0 results in 113.1324 ms
+[3] 15:34:37:  + OptIntAddIn: OptIntAddIn 16.0.6.3131 (3131)
+[3] 15:34:37:  + QTestIntegrationAddIn: QTestIntegrationAddIn 16.0.6.3131 (3131)
+[3] 15:34:37:  + RemoteControl: RemoteControlAddIn 16.0.6.3131 (3131)
+[3] 15:34:37:  + Reporting: ReportingAddIn 16.0.6.3131 (3131)
+[3] 15:34:37:  + ReportingUI: ReportingUIAddIn 16.0.6.3131 (3131)
+[3] 15:34:37:  + RequirementsManagementAddIn: RequirementsManagement 16.0.6.3131 (3131)
+[3] 15:34:37:  + RequirementsManagementUIAddIn: RequirementsManagementUI 16.0.6.3131 (3131)
+[3] 15:34:37:  + SAPCloudAlmAddIn: SAPCloudAlmAddIn 16.0.6.3131 (3131)
+[3] 15:34:37:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 16.0.6.3131 (3131)
+[3] 15:34:38:  + TestCaseDesign: TestCaseDesign 16.0.6.3131 (3131)
+[3] 15:34:38:  + ControlFlowDiagram: TestCaseVisualizationAddIn 16.0.6.3131 (3131)
+[3] 15:34:38:  + XDefinitions: XDefinitions 16.0.6.3131 (3131)
+[3] 15:34:38:  + XDefinitionsUI: XDefinitionsUI 16.0.6.3131 (3131)
+[3] 15:34:38: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\New Framework\New Framework.tws'
+[4] 15:34:46:  ShowStatusInfo: 'Refresh navigation view 'New Framework''
+[4] 15:34:46:  ShowStatusInfo: 'Ready'
+[4] 15:34:46:  ShowStatusInfo: 'Refresh detail view 'New Framework''
+[4] 15:34:46:  ShowStatusInfo: 'Ready'
+[4] 15:34:46:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 15:34:46:  ShowStatusInfo: 'Refresh all finished'
+[4] 15:34:46:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 15:34:46:  ShowStatusInfo: 'Refresh navigation view 'New Framework''
+[4] 15:34:46:  ShowStatusInfo: 'Ready'
+[4] 15:34:46:  ShowStatusInfo: 'Refresh detail view 'New Framework''
+[4] 15:34:46:  ShowStatusInfo: 'Ready'
+[4] 15:34:46:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 15:34:46:  ShowStatusInfo: 'Refresh all finished'
+[4] 15:34:46:  ShowStatusInfo: 'Refresh navigation view 'New Framework''
+[4] 15:34:46:  ShowStatusInfo: 'Ready'
+[4] 15:34:46:  ShowStatusInfo: 'Refresh detail view 'New Framework''
+[4] 15:34:46:  ShowStatusInfo: 'Ready'
+[4] 15:34:46:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 15:34:46:  ShowStatusInfo: 'Refresh all finished'
+[3] 15:34:47: OpenWorkspace took 00:00:16.4831821 to finish
+[2] 15:34:47: Common repository is not available
+[4] 15:34:51:  ShowStatusInfo: 'Ready'
+[4] 15:34:53:  ShowStatusInfo: '1 object selected'
+[4] 15:34:54:  ShowStatusInfo: 'Ready'
+[4] 15:34:56:  ShowStatusInfo: '1 object selected'
+[4] 15:34:57:  ShowStatusInfo: 'Ready'
+[3] 15:35:03: Task 'Import XScan Modules' started on ''
+[4] 15:35:03:  ShowStatusInfo: 'Import XScan Modules'
+[4] 15:35:12:  ShowStatusInfo: 'Ready'
+[4] 15:35:12:  ShowStatusInfo: 'Import XScan Modules finalizing ... '
+[4] 15:35:12:  ShowStatusInfo: 'Refresh navigation view 'New Framework''
+[4] 15:35:12:  ShowStatusInfo: 'Ready'
+[4] 15:35:12:  ShowStatusInfo: 'Refresh detail view 'New Framework''
+[4] 15:35:12:  ShowStatusInfo: 'Ready'
+[4] 15:35:12:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 15:35:12:  ShowStatusInfo: 'Refresh all finished'
+[4] 15:35:12:  ShowStatusInfo: 'Import XScan Modules finished'
+[3] 15:35:12: Task 'Import XScan Modules' finished
+[4] 15:35:13:  ShowStatusInfo: '1 object selected'
+[4] 15:35:13:  ShowStatusInfo: 'Ready'
+[4] 15:35:31:  ShowStatusInfo: 'Refresh navigation view 'New Framework''
+[4] 15:35:31:  ShowStatusInfo: 'Ready'
+[4] 15:35:31:  ShowStatusInfo: 'Refresh detail view 'New Framework''
+[4] 15:35:31:  ShowStatusInfo: 'Ready'
+[4] 15:35:31:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 15:35:31:  ShowStatusInfo: 'Refresh all finished'
+[4] 15:35:36:  ShowStatusInfo: 'Ready'
+[3] 15:35:45: Closing Workspace!
+[3] 15:35:45: Log closed!

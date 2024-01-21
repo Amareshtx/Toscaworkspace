@@ -1,0 +1,212 @@
+[3] 13:01:57: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\New Framework\New Framework.tws'
+[3] 13:01:57: Log level: 4
+[3] 13:01:57: Release: 15.0.0.876
+[3] 13:02:00: Using the following service discovery: http://192.168.29.129:81/DistributionServerService/CommunicationService.svc
+[3] 13:02:00:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 15.0.0.876 (876)
+[3] 13:02:00:  + DistributedExecutionAddIn: DistributedExecutionAddIn 15.0.0.876 (876)
+[3] 13:02:00:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 15.0.0.876 (876)
+[3] 13:02:00:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 15.0.0.876 (876)
+[3] 13:02:00:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 15.0.0.876 (876)
+[3] 13:02:00:  + IntegrationManagementAddIn: IntegrationManagementAddIn 15.0.0.876 (876)
+    - : QTestIntegration 15.0.0.170 (170)
+    + : SAPSolutionManagerIntegration 15.0.0.170 (170)
+[3] 13:02:00: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 13:02:00: Searcher found 0 results in 86.5229 ms
+[3] 13:02:00:  + OptIntAddIn: OptIntAddIn 15.0.0.876 (876)
+[3] 13:02:00:  + QTestIntegrationAddIn: QTestIntegrationAddIn 15.0.0.876 (876)
+[3] 13:02:00:  + RemoteControl: RemoteControlAddIn 15.0.0.876 (876)
+[3] 13:02:00:  + Reporting: ReportingAddIn 15.0.0.876 (876)
+[3] 13:02:00:  + ReportingUI: ReportingUIAddIn 15.0.0.876 (876)
+[3] 13:02:00:  + RequirementsManagementAddIn: RequirementsManagement 15.0.0.876 (876)
+[3] 13:02:00:  + RequirementsManagementUIAddIn: RequirementsManagementUI 15.0.0.876 (876)
+[3] 13:02:00:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 15.0.0.876 (876)
+[3] 13:02:00:  + TestCaseDesign: TestCaseDesign 15.0.0.876 (876)
+[3] 13:02:00:  + ControlFlowDiagram: TestCaseVisualizationAddIn 15.0.0.876 (876)
+[3] 13:02:00:  + XDefinitions: XDefinitions 15.0.0.876 (876)
+[3] 13:02:00:  + XDefinitionsUI: XDefinitionsUI 15.0.0.876 (876)
+[3] 13:02:00: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\New Framework\New Framework.tws'
+[4] 13:02:18:  ShowStatusInfo: 'Refresh navigation view ' ''
+[4] 13:02:18:  ShowStatusInfo: 'Refresh navigation view 'New Framework''
+[4] 13:02:18:  ShowStatusInfo: 'Ready'
+[4] 13:02:18:  ShowStatusInfo: 'Refresh detail view ' ''
+[4] 13:02:18:  ShowStatusInfo: 'Refresh detail view 'New Framework''
+[4] 13:02:18:  ShowStatusInfo: 'Ready'
+[4] 13:02:18:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 13:02:18:  ShowStatusInfo: 'Refresh all finished'
+[4] 13:02:19:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 13:02:19:  ShowStatusInfo: 'Refresh navigation view ' ''
+[4] 13:02:19:  ShowStatusInfo: 'Refresh navigation view 'New Framework''
+[4] 13:02:19:  ShowStatusInfo: 'Ready'
+[4] 13:02:19:  ShowStatusInfo: 'Refresh detail view ' ''
+[4] 13:02:19:  ShowStatusInfo: 'Refresh detail view 'New Framework''
+[4] 13:02:19:  ShowStatusInfo: 'Ready'
+[4] 13:02:19:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 13:02:19:  ShowStatusInfo: 'Refresh all finished'
+[4] 13:02:19:  ShowStatusInfo: 'Refresh navigation view ' ''
+[4] 13:02:19:  ShowStatusInfo: 'Refresh navigation view 'New Framework''
+[4] 13:02:19:  ShowStatusInfo: 'Ready'
+[4] 13:02:19:  ShowStatusInfo: 'Refresh detail view ' ''
+[4] 13:02:19:  ShowStatusInfo: 'Refresh detail view 'New Framework''
+[4] 13:02:19:  ShowStatusInfo: 'Ready'
+[4] 13:02:19:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 13:02:19:  ShowStatusInfo: 'Refresh all finished'
+[0] 13:02:19: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Tricentis.TCCore.Base.Workspace.IsFileServiceEnabledInRepository()
+[3] 13:02:19: OpenWorkspace took 00:00:22.0460847 to finish
+[4] 13:02:23:  ShowStatusInfo: 'Ready'
+[4] 13:02:23:  ShowStatusInfo: '1 object selected'
+[4] 13:02:25:  ShowStatusInfo: 'Ready'
+[4] 13:02:25:  ShowStatusInfo: '1 object selected'
+[4] 13:02:27:  ShowStatusInfo: 'Ready'
+[4] 13:02:30:  ShowStatusInfo: '1 object selected'
+[4] 13:02:30:  ShowStatusInfo: 'Ready'
+[4] 13:02:37:  ShowStatusInfo: '1 object selected'
+[4] 13:02:37:  ShowStatusInfo: 'Ready'
+[4] 13:02:38:  ShowStatusInfo: '1 object selected'
+[4] 13:02:38:  ShowStatusInfo: 'Ready'
+[4] 13:02:40:  ShowStatusInfo: '1 object selected'
+[4] 13:02:40:  ShowStatusInfo: 'Ready'
+[4] 13:03:23:  ShowStatusInfo: '1 object selected'
+[4] 13:03:24:  ShowStatusInfo: 'Ready'
+[4] 13:03:25:  ShowStatusInfo: '1 object selected'
+[4] 13:03:26:  ShowStatusInfo: 'Ready'
+[4] 13:03:28:  ShowStatusInfo: '1 object selected'
+[4] 13:03:28:  ShowStatusInfo: 'Ready'
+[4] 13:03:30:  ShowStatusInfo: '1 object selected'
+[4] 13:03:30:  ShowStatusInfo: 'Ready'
+[4] 13:03:37:  ShowStatusInfo: '1 object selected'
+[4] 13:03:38:  ShowStatusInfo: 'Ready'
+[4] 13:03:42:  ShowStatusInfo: '1 object selected'
+[4] 13:03:42:  ShowStatusInfo: 'Ready'
+[4] 13:03:43:  ShowStatusInfo: '1 object selected'
+[4] 13:03:43:  ShowStatusInfo: 'Ready'
+[4] 13:03:44:  ShowStatusInfo: '1 object selected'
+[4] 13:03:44:  ShowStatusInfo: 'Ready'
+[4] 13:06:02:  ShowStatusInfo: '1 object selected'
+[4] 13:06:07:  ShowStatusInfo: 'Ready'
+[4] 13:07:13:  ShowStatusInfo: '1 object selected'
+[4] 13:07:16:  ShowStatusInfo: 'Ready'
+[4] 13:07:16:  ShowStatusInfo: '1 object selected'
+[4] 13:07:16:  ShowStatusInfo: 'Ready'
+[4] 13:07:21:  ShowStatusInfo: '1 object selected'
+[4] 13:07:25:  ShowStatusInfo: 'Ready'
+[4] 13:07:37:  ShowStatusInfo: '1 object selected'
+[4] 13:07:39:  ShowStatusInfo: 'Ready'
+[4] 13:07:40:  ShowStatusInfo: '1 object selected'
+[4] 13:07:41:  ShowStatusInfo: 'Ready'
+[4] 13:07:42:  ShowStatusInfo: '1 object selected'
+[4] 13:07:42:  ShowStatusInfo: 'Ready'
+[4] 13:07:44:  ShowStatusInfo: '1 object selected'
+[4] 13:07:44:  ShowStatusInfo: 'Ready'
+[4] 13:07:45:  ShowStatusInfo: '1 object selected'
+[4] 13:07:46:  ShowStatusInfo: 'Ready'
+[4] 13:07:46:  ShowStatusInfo: '1 object selected'
+[4] 13:07:47:  ShowStatusInfo: 'Ready'
+[4] 13:07:48:  ShowStatusInfo: '1 object selected'
+[4] 13:07:48:  ShowStatusInfo: 'Ready'
+[3] 13:07:49: Task 'Run in ScratchBook' started on '/TX Trinity/005 . User Stories/002 . Utilities/005 . Mobile Automation/TemplateInstance of Mobile Application Automation/TC001 | Android Application'
+[4] 13:07:49:  ShowStatusInfo: 'Run in ScratchBook'
+[4] 13:07:50:  ShowStatusInfo: 'Refresh navigation view 'Amazon''
+[4] 13:07:50:  ShowStatusInfo: 'Refresh navigation view 'New Framework''
+[4] 13:07:50:  ShowStatusInfo: 'Ready'
+[4] 13:07:50:  ShowStatusInfo: 'Refresh detail view 'Amazon''
+[4] 13:07:50:  ShowStatusInfo: 'Refresh detail view 'New Framework''
+[4] 13:07:50:  ShowStatusInfo: 'Ready'
+[4] 13:07:50:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 13:07:50:  ShowStatusInfo: 'Refresh all finished'
+[4] 13:07:51:  ShowStatusInfo: 'Run started with TBoxRunTaskExecutor'
+[4] 13:07:51:  ShowStatusInfo: 'Verifying required licenses ...'
+[4] 13:07:55:  ShowStatusInfo: 'Execution Running ...'
+[4] 13:08:11:  ShowStatusInfo: 'Processing execution results ...'
+[3] 13:08:11: AgentResults count: 1
+[3] 13:08:13: executionResponses count: 1
+[4] 13:08:15:  ShowStatusInfo: 'Run finalizing ... '
+[4] 13:08:15:  ShowStatusInfo: 'Run finished'
+[3] 13:08:15: Task 'Run' finished
+[4] 13:08:15:  ShowStatusInfo: 'Ready'
+[4] 13:08:15:  ShowStatusInfo: 'Run in ScratchBook finalizing ... '
+[4] 13:08:15:  ShowStatusInfo: 'Refresh navigation view 'Amazon''
+[4] 13:08:15:  ShowStatusInfo: 'Refresh navigation view 'New Framework''
+[4] 13:08:15:  ShowStatusInfo: 'Ready'
+[4] 13:08:15:  ShowStatusInfo: 'Refresh detail view 'Amazon''
+[4] 13:08:15:  ShowStatusInfo: 'Refresh detail view 'New Framework''
+[4] 13:08:15:  ShowStatusInfo: 'Ready'
+[4] 13:08:15:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 13:08:15:  ShowStatusInfo: 'Refresh all finished'
+[4] 13:08:15:  ShowStatusInfo: 'Run in ScratchBook finished'
+[3] 13:08:15: Task 'Run in ScratchBook' finished
+[4] 13:08:15:  ShowStatusInfo: 'Refresh navigation view 'Amazon''
+[4] 13:08:15:  ShowStatusInfo: 'Refresh navigation view 'New Framework''
+[4] 13:08:15:  ShowStatusInfo: 'Ready'
+[4] 13:08:15:  ShowStatusInfo: 'Refresh detail view 'Amazon''
+[4] 13:08:15:  ShowStatusInfo: 'Refresh detail view 'New Framework''
+[4] 13:08:15:  ShowStatusInfo: 'Ready'
+[4] 13:08:15:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 13:08:15:  ShowStatusInfo: 'Refresh all finished'
+[4] 13:08:15:  ShowStatusInfo: 'Ready'
+[4] 13:08:18:  ShowStatusInfo: '1 object selected'
+[4] 13:08:18:  ShowStatusInfo: 'Ready'
+[4] 13:08:32:  ShowStatusInfo: '1 object selected'
+[4] 13:08:37:  ShowStatusInfo: 'Ready'
+[4] 13:08:41:  ShowStatusInfo: '1 object selected'
+[4] 13:08:46:  ShowStatusInfo: 'Ready'
+[4] 13:17:45:  ShowStatusInfo: '1 object selected'
+[4] 13:17:46:  ShowStatusInfo: 'Ready'
+[4] 13:17:47:  ShowStatusInfo: '1 object selected'
+[4] 13:17:47:  ShowStatusInfo: 'Ready'
+[3] 13:17:48: Task 'Run in ScratchBook' started on '/TX Trinity/005 . User Stories/002 . Utilities/005 . Mobile Automation/TemplateInstance of Mobile Application Automation/TC001 | Android Application'
+[4] 13:17:48:  ShowStatusInfo: 'Run in ScratchBook'
+[4] 13:17:49:  ShowStatusInfo: 'Refresh navigation view 'Amazon''
+[4] 13:17:49:  ShowStatusInfo: 'Refresh navigation view 'New Framework''
+[4] 13:17:49:  ShowStatusInfo: 'Ready'
+[4] 13:17:49:  ShowStatusInfo: 'Refresh detail view 'Amazon''
+[4] 13:17:49:  ShowStatusInfo: 'Refresh detail view 'New Framework''
+[4] 13:17:49:  ShowStatusInfo: 'Ready'
+[4] 13:17:49:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 13:17:49:  ShowStatusInfo: 'Refresh all finished'
+[4] 13:17:49:  ShowStatusInfo: 'Run started with TBoxRunTaskExecutor'
+[4] 13:17:49:  ShowStatusInfo: 'Verifying required licenses ...'
+[4] 13:17:53:  ShowStatusInfo: 'Execution Running ...'
+[4] 13:18:03:  ShowStatusInfo: 'Processing execution results ...'
+[3] 13:18:03: AgentResults count: 1
+[3] 13:18:05: executionResponses count: 1
+[4] 13:18:06:  ShowStatusInfo: 'Run finalizing ... '
+[4] 13:18:06:  ShowStatusInfo: 'Run finished'
+[3] 13:18:06: Task 'Run' finished
+[4] 13:18:06:  ShowStatusInfo: 'Ready'
+[4] 13:18:06:  ShowStatusInfo: 'Run in ScratchBook finalizing ... '
+[4] 13:18:06:  ShowStatusInfo: 'Refresh navigation view 'Amazon''
+[4] 13:18:06:  ShowStatusInfo: 'Refresh navigation view 'New Framework''
+[4] 13:18:06:  ShowStatusInfo: 'Ready'
+[4] 13:18:06:  ShowStatusInfo: 'Refresh detail view 'Amazon''
+[4] 13:18:06:  ShowStatusInfo: 'Refresh detail view 'New Framework''
+[4] 13:18:06:  ShowStatusInfo: 'Ready'
+[4] 13:18:06:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 13:18:06:  ShowStatusInfo: 'Refresh all finished'
+[4] 13:18:06:  ShowStatusInfo: 'Run in ScratchBook finished'
+[3] 13:18:06: Task 'Run in ScratchBook' finished
+[4] 13:18:07:  ShowStatusInfo: 'Refresh navigation view 'Amazon''
+[4] 13:18:07:  ShowStatusInfo: 'Refresh navigation view 'New Framework''
+[4] 13:18:07:  ShowStatusInfo: 'Ready'
+[4] 13:18:07:  ShowStatusInfo: 'Refresh detail view 'Amazon''
+[4] 13:18:07:  ShowStatusInfo: 'Refresh detail view 'New Framework''
+[4] 13:18:07:  ShowStatusInfo: 'Ready'
+[4] 13:18:07:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 13:18:07:  ShowStatusInfo: 'Refresh all finished'
+[4] 13:18:07:  ShowStatusInfo: 'Ready'
+[4] 13:18:08:  ShowStatusInfo: '1 object selected'
+[4] 13:18:08:  ShowStatusInfo: 'Ready'
+[4] 13:18:19:  ShowStatusInfo: '1 object selected'
+[4] 13:18:22:  ShowStatusInfo: 'Saving ...'
+[3] 13:18:22:  Save started!
+[3] 13:18:22: QTestIntegrationAddIn beginning to Export to QTest
+[3] 13:18:22: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 13:18:22: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 13:18:22: LinkTcToQTestService grouping testcases by same endpoint
+[3] 13:18:22: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 13:18:22: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 13:18:22:  Save finished!
+[4] 13:18:22:  ShowStatusInfo: 'Saved successfully'
+[4] 13:18:22:  ShowStatusInfo: 'Ready'
+[3] 13:18:23: Closing Workspace!
+[3] 13:18:23: Log closed!

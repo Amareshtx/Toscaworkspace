@@ -1,0 +1,126 @@
+[3] 15:56:38: Log started for 'C:\Tosca_Projects\Tosca_Workspaces\New Framework\New Framework.tws'
+[3] 15:56:38: Log level: 4
+[3] 15:56:38: Release: 15.0.0.876
+[3] 15:56:40: Using the following service discovery: http://192.168.29.129:81/DistributionServerService/CommunicationService.svc
+[3] 15:56:40:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 15.0.0.876 (876)
+[3] 15:56:40:  + DistributedExecutionAddIn: DistributedExecutionAddIn 15.0.0.876 (876)
+[3] 15:56:40:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 15.0.0.876 (876)
+[3] 15:56:40:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 15.0.0.876 (876)
+[3] 15:56:40:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 15.0.0.876 (876)
+[3] 15:56:40:  + IntegrationManagementAddIn: IntegrationManagementAddIn 15.0.0.876 (876)
+    - : QTestIntegration 15.0.0.170 (170)
+    + : SAPSolutionManagerIntegration 15.0.0.170 (170)
+[3] 15:56:40: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 15:56:40: Searcher found 0 results in 83.9041 ms
+[3] 15:56:40:  + OptIntAddIn: OptIntAddIn 15.0.0.876 (876)
+[3] 15:56:40:  + QTestIntegrationAddIn: QTestIntegrationAddIn 15.0.0.876 (876)
+[3] 15:56:40:  + RemoteControl: RemoteControlAddIn 15.0.0.876 (876)
+[3] 15:56:40:  + Reporting: ReportingAddIn 15.0.0.876 (876)
+[3] 15:56:40:  + ReportingUI: ReportingUIAddIn 15.0.0.876 (876)
+[3] 15:56:40:  + RequirementsManagementAddIn: RequirementsManagement 15.0.0.876 (876)
+[3] 15:56:40:  + RequirementsManagementUIAddIn: RequirementsManagementUI 15.0.0.876 (876)
+[3] 15:56:40:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 15.0.0.876 (876)
+[3] 15:56:40:  + TestCaseDesign: TestCaseDesign 15.0.0.876 (876)
+[3] 15:56:40:  + ControlFlowDiagram: TestCaseVisualizationAddIn 15.0.0.876 (876)
+[3] 15:56:40:  + XDefinitions: XDefinitions 15.0.0.876 (876)
+[3] 15:56:40:  + XDefinitionsUI: XDefinitionsUI 15.0.0.876 (876)
+[3] 15:56:40: Opened from Workspace File 'C:\Tosca_Projects\Tosca_Workspaces\New Framework\New Framework.tws'
+[4] 15:56:48:  ShowStatusInfo: 'Refresh navigation view 'New Framework''
+[4] 15:56:48:  ShowStatusInfo: 'Ready'
+[4] 15:56:49:  ShowStatusInfo: 'Refresh navigation view '005 . User Stories''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh navigation view '004 . Test Data Instances''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh navigation view '003 . Requirements''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh navigation view 'TX Trinity''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh navigation view '002 . Object Repository''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh detail view 'New Framework''
+[4] 15:56:49:  ShowStatusInfo: 'Ready'
+[4] 15:56:49:  ShowStatusInfo: 'Refresh detail view '005 . User Stories''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh detail view '004 . Test Data Instances''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh detail view '003 . Requirements''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh detail view 'TX Trinity''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh detail view '002 . Object Repository''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh all finished'
+[4] 15:56:49:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh navigation view 'New Framework''
+[4] 15:56:49:  ShowStatusInfo: 'Ready'
+[4] 15:56:49:  ShowStatusInfo: 'Refresh navigation view '005 . User Stories''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh navigation view '004 . Test Data Instances''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh navigation view '003 . Requirements''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh navigation view 'TX Trinity''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh navigation view '002 . Object Repository''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh detail view 'New Framework''
+[4] 15:56:49:  ShowStatusInfo: 'Ready'
+[4] 15:56:49:  ShowStatusInfo: 'Refresh detail view '005 . User Stories''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh detail view '004 . Test Data Instances''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh detail view '003 . Requirements''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh detail view 'TX Trinity''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh detail view '002 . Object Repository''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh all finished'
+[4] 15:56:49:  ShowStatusInfo: 'Refresh navigation view 'New Framework''
+[4] 15:56:49:  ShowStatusInfo: 'Ready'
+[4] 15:56:49:  ShowStatusInfo: 'Refresh navigation view '005 . User Stories''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh navigation view '004 . Test Data Instances''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh navigation view '003 . Requirements''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh navigation view 'TX Trinity''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh navigation view '002 . Object Repository''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh detail view 'New Framework''
+[4] 15:56:49:  ShowStatusInfo: 'Ready'
+[4] 15:56:49:  ShowStatusInfo: 'Refresh detail view '005 . User Stories''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh detail view '004 . Test Data Instances''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh detail view '003 . Requirements''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh detail view 'TX Trinity''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh detail view '002 . Object Repository''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 15:56:49:  ShowStatusInfo: 'Refresh all finished'
+[0] 15:56:49: System.NullReferenceException: Object reference not set to an instance of an object.
+   at Tricentis.TCCore.Base.Workspace.IsFileServiceEnabledInRepository()
+[3] 15:56:49: OpenWorkspace took 00:00:11.2564802 to finish
+[4] 15:56:50:  ShowStatusInfo: '1 object selected'
+[4] 15:56:50:  ShowStatusInfo: 'Ready'
+[4] 15:56:50:  ShowStatusInfo: '1 object selected'
+[4] 15:56:55:  ShowStatusInfo: 'Ready'
+[4] 15:56:55:  ShowStatusInfo: '1 object selected'
+[4] 15:56:57:  ShowStatusInfo: 'Ready'
+[4] 15:56:58:  ShowStatusInfo: '1 object selected'
+[4] 15:56:58:  ShowStatusInfo: 'Ready'
+[4] 15:56:58:  ShowStatusInfo: '1 object selected'
+[4] 15:56:59:  ShowStatusInfo: 'Ready'
+[4] 15:57:02:  ShowStatusInfo: '1 object selected'
+[4] 15:57:02:  ShowStatusInfo: 'Ready'
+[4] 15:57:03:  ShowStatusInfo: '1 object selected'
+[4] 15:57:03:  ShowStatusInfo: 'Ready'
+[4] 15:57:05:  ShowStatusInfo: '1 object selected'
+[4] 15:57:05:  ShowStatusInfo: 'Ready'
+[4] 15:57:11:  ShowStatusInfo: 'Refresh navigation view 'New Framework''
+[4] 15:57:11:  ShowStatusInfo: 'Ready'
+[4] 15:57:11:  ShowStatusInfo: 'Refresh navigation view '005 . User Stories''
+[4] 15:57:11:  ShowStatusInfo: 'Refresh navigation view '004 . Test Data Instances''
+[4] 15:57:11:  ShowStatusInfo: 'Refresh navigation view '003 . Requirements''
+[4] 15:57:11:  ShowStatusInfo: 'Refresh navigation view 'TX Trinity''
+[4] 15:57:11:  ShowStatusInfo: 'Refresh navigation view '002 . Object Repository''
+[4] 15:57:11:  ShowStatusInfo: 'Refresh detail view 'New Framework''
+[4] 15:57:11:  ShowStatusInfo: 'Ready'
+[4] 15:57:11:  ShowStatusInfo: 'Refresh detail view '005 . User Stories''
+[4] 15:57:11:  ShowStatusInfo: 'Refresh detail view '004 . Test Data Instances''
+[4] 15:57:11:  ShowStatusInfo: 'Refresh detail view '003 . Requirements''
+[4] 15:57:11:  ShowStatusInfo: 'Refresh detail view 'TX Trinity''
+[4] 15:57:11:  ShowStatusInfo: 'Refresh detail view '002 . Object Repository''
+[4] 15:57:11:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 15:57:11:  ShowStatusInfo: 'Refresh all finished'
+[4] 15:57:11:  ShowStatusInfo: 'Ready'
+[4] 15:57:11:  ShowStatusInfo: '1 object selected'
+[4] 15:57:12:  ShowStatusInfo: 'Saving ...'
+[3] 15:57:12:  Save started!
+[3] 15:57:12: QTestIntegrationAddIn beginning to Export to QTest
+[3] 15:57:12: QTestIntegrationAddIn finished exporting objects to QTest
+[3] 15:57:12: QTestIntegrationAddIn beginning to unlink objects from QTest
+[3] 15:57:12: LinkTcToQTestService grouping testcases by same endpoint
+[3] 15:57:12: UnlinkTestEventService grouping TestEvents by same endpoint
+[3] 15:57:12: QTestIntegrationAddIn finished unlinking objects from QTest
+[3] 15:57:12:  Save finished!
+[4] 15:57:12:  ShowStatusInfo: 'Saved successfully'
+[4] 15:57:12:  ShowStatusInfo: 'Ready'
+[3] 15:57:15: Closing Workspace!
+[3] 15:57:15: Log closed!

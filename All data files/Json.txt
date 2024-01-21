@@ -1,0 +1,8 @@
+{  
+    "Browser" : "Chrome",
+    "Url":       "http://sampleapp.tricentis.com",
+    "Email":       "shaiksyful@gmail.com",
+    "password":    "Syful0491",
+    "ConfirmPassword": "Syful0491",
+    "Username"  : "Syful0491",
+}  
